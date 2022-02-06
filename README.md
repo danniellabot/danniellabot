@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danniellabot
-- 👀 I’m interested in React, React/Redux, React Native
-- 🌱 I’m currently learning and practicing all things full stack. 
+- 👀 Mainly use this for hobbies and side projects. 
+- 🌱 Learning and implementing all things full stack. 
 
 <!---
 danniellabot/danniellabot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
